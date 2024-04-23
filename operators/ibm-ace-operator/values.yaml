@@ -5,7 +5,7 @@ ibm-ace-operator:
     ibmace:
       name: ibm-ace
       subscription:
-        channel: v11.0
+        channel: v11.2
         installPlanApproval: Automatic
         name: ibm-appconnect
         source: ibm-operator-catalog
