@@ -3,7 +3,7 @@ kind: Subscription
 metadata:
   name: ibm-automation-foundation-core
 spec:
-  channel: v1.1
+  channel: v1.7-sc2
   config:
     resources: {}
   installPlanApproval: Automatic
