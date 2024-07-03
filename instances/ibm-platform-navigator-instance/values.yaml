@@ -7,6 +7,5 @@ ibm-platform-navigator-instance:
       license:
         accept: true
         license: L-JTPV-KYG8TF
-      mqDashboard: true
       version: 16.1.0
       replicas: 2   
