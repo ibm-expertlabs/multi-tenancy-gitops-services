@@ -1,7 +1,7 @@
 ibm-common-services:
   subscriptions:
     subscription:
-      channel: v4.6
+      channel: v4.7
       config:
         resources: {}
       installPlanApproval: Automatic
